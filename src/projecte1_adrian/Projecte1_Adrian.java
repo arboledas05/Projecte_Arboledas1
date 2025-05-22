@@ -6,6 +6,7 @@ public class Projecte1_Adrian {
 
         System.out.println("HOLA");
         System.out.println("Adeu");
+        System.out.println("Jose");
     }
 
 }
