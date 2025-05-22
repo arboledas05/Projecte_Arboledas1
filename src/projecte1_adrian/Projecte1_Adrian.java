@@ -8,6 +8,10 @@ public class Projecte1_Adrian {
         System.out.println("Adeu");
         
         System.out.println("Adri");
+
+        System.out.println("Jose");
+        
+        System.out.println("Arreglado");
     }
 
 }
