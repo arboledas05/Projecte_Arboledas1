@@ -5,7 +5,7 @@ public class Adri {
     private int edad;
 
     public Adri(String dni) {
-        this.nombre = "GAY";
+        this.nombre = "Adri";
         this.edad = 200;
     }
 
